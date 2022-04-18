@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListExtensions/> Must render the component 1`] = `
+<body>
+  <div>
+    <div
+      class="MuiBox-root css-be40y1"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-4 css-1ube6tp-MuiGrid-root"
+        >
+          <li
+            class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+          >
+            <div
+              class="MuiListItemAvatar-root css-1e9lk82-MuiListItemAvatar-root"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-2s90m6-MuiAvatar-root"
+              >
+                J
+                 
+              </div>
+            </div>
+            <div
+              class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+            >
+              <span
+                class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+              >
+                Extension: JS
+              </span>
+              <p
+                class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+              >
+                Quantity: undefined
+              </p>
+            </div>
+          </li>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
