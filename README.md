@@ -3,11 +3,15 @@
 Features:
 
 `Lodash`: A modern JavaScript utility library delivering modularity.
+
 `Eslint`: Statically analyzes your code to quickly find problems..
+
 `Mui`: Provides accessible library of React components.
+
 `Jest`: is a JavaScript testing framework.
 
-## Start Api locally
+
+## Start APP locally
 
 - _Access the folder_
 
@@ -22,7 +26,7 @@ cd github-extension-counter
 npm install
 ```
 
-- _Run the project
+- _Run the project_
 
 ```
 npm start
